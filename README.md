@@ -1,4 +1,4 @@
-# Python Learning Journey 🐍🚀
+# Complete Python  🐍🚀
 
 This repository contains my structured learning of Python, including core concepts, problem-solving, and experiments. It serves as both a learning log and a revision resource.
 
