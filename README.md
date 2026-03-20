@@ -8,12 +8,12 @@ This repository contains my structured learning of Python, including core concep
 
 - Variables and Data Types  
 - Operators  
+- User Input  
+- Conditional Statements  
+- Loops  
 - Strings and String Functions  
 - Lists and List Slicing  
 - Tuples, Sets, and Dictionaries  
-- Conditional Statements  
-- Loops  
-- User Input  
 -upcoming .......
 ---
 
