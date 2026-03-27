@@ -23,10 +23,10 @@ This repository contains my structured learning of Python, including core concep
 - Date and Time Modules  
 - Random Module  
 - Basic Data Structures (Stack & Queue)  
+- Object-Oriented Programming (OOP)  
 
 ## Upcoming
 
-- Object-Oriented Programming (OOP)  
 - Exception Handling  
 - Advanced Python Concepts  
 ## Purpose
