@@ -24,10 +24,11 @@ This repository contains my structured learning of Python, including core concep
 - Random Module  
 - Basic Data Structures (Stack & Queue)  
 - Object-Oriented Programming (OOP)  
+- Exception Handling  
 
 ## Upcoming
-
-- Exception Handling  
+- sqlite datanase connection
+- mySQL connection
 - Advanced Python Concepts  
 ## Purpose
 
