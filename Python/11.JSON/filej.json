@@ -1,0 +1,28 @@
+{
+  "id": 1024,
+  "name": "Abhay Singh",
+  "isActive": true,
+  "skills": ["C++", "Java", "Python", "JavaScript"],
+  "education": {
+    "degree": "B.Tech CSE",
+    "university": "Galgotias University",
+    "cgpa": 8.98
+  },
+  "projects": [
+    {
+      "title": "Student Management System",
+      "tech": ["Java", "MongoDB"],
+      "status": "completed"
+    },
+    {
+      "title": "Plant Scanner",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "status": "completed"
+    }
+  ],
+  "stats": {
+    "problemsSolved": 600,
+    "repositories": 12
+  },
+  "createdAt": "2026-03-21T18:00:00Z"
+}
