@@ -25,9 +25,9 @@ This repository contains my structured learning of Python, including core concep
 - Basic Data Structures (Stack & Queue)  
 - Object-Oriented Programming (OOP)  
 - Exception Handling  
+- sqlite database connection
 
 ## Upcoming
-- sqlite database connection
 - mySQL connection
 - Advanced Python Concepts  
 ## Purpose
