@@ -26,9 +26,9 @@ This repository contains my structured learning of Python, including core concep
 - Object-Oriented Programming (OOP)  
 - Exception Handling  
 - sqlite database connection
+- mySQL connection
 
 ## Upcoming
-- mySQL connection
 - Advanced Python Concepts
 - Flask
 - Django
