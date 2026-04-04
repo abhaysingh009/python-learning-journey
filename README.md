@@ -27,10 +27,10 @@ This repository contains my structured learning of Python, including core concep
 - Exception Handling  
 - sqlite database connection
 - mySQL connection
-
-## Upcoming
 - Advanced Python Concepts
 - Flask
+
+## Upcoming
 - Django
 - Libraries (Numpy,pandas....)  
 ## Purpose
